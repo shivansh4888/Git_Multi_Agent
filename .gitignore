@@ -20,3 +20,6 @@ venv/
 .env/
 
 interview_talking_points.md
+.code
+.crewai
+.streamlit
